@@ -6,20 +6,21 @@
 
 
 ## Meu nome é Roger Henrique
-(HTML | CSS | ReactJS | Java | Spring Boot | PostgresSQL | C# | Dotnet Core | MySQL) 🚀
-
 
 - 👩‍💻 Desenvolvedor Fullstack e Estudante de Tecnologia
 - 🎓 Técnico em Análise e Desenvolvimento de Sistema pelo Senai
 - 🌐 Entusiatas em Tecnologias
 - 🤝 Compromisso com a excelência
-- 💡  Em busca de novas oportunidades para contribuir e crescer.
-
+- 💡 Em busca de novas oportunidades para contribuir e crescer.
+- 🫡 Atualmente focado em Spring Boot (Back-End) e ReactJS (Web Front-End) 🚀
+  
 <div align="left">
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerhenriquediegoli&layout=compact&hide_border=false&title_color=cc00ff&text_color=ffffff&bg_color=0d1117" />
   <img  height="190em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=rogerhenriquediegoli&show_icons=true&layout=compact&hide_border=false&title_color=cc00ff&text_color=ffffff&bg_color=0d1117" >
  </div>
+ 
   <br/>
+  
   <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
